@@ -30,4 +30,4 @@ sudo cp -f "$TMPDIR/domains.txt" /usr/lib/openvpn/domains.txt
 echo "Очистка временных файлов..."
 rm -rf "$TMPDIR" "$ARCHIVE"
 
-echo "Готово!
+echo "Готово!"
